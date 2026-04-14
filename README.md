@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pojcharapon Sangkhum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pojcharapon Sangkhum or you can CALLED me "Neru"</h1>
+<h3 align="center">A student from Thailand who intended to be a "network engineer" and interested in "game" and "software" development.</h3>
+
+- 🔭 I’m currently working on **Game project: project_chibi_isekai**
+
+- 🌱 I’m currently learning **Networking engineer and Information system & Game Design and Develop**
+
+- 📫 How to reach me **pojcharapon@hotmail.com**
+
+- ⚡ Fun fact **I would love to sleep and dream of my dream's project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
