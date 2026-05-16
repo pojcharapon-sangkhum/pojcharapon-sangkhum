@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pojcharapon Sangkhum or you can CALLED me "Neru"</h1>
 <h3 align="center">A student from Thailand who intended to be a "network engineer" and interested in "game" and "software" development.</h3>
-
-- <h3 align="center"> **I Love Japan.**</h3>
+<h3 align="center">I Love Japan</h3>
  
 - 🔭 I’m currently working on **Game project: project_chibi_isekai**
 
